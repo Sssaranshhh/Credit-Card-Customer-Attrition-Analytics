@@ -2,8 +2,9 @@
 
 ## Overview
 
-This project analyzes customer attrition for a credit card company using SQL and Power BI. The objective was to identify the major factors contributing to customer churn and present actionable business insights through an executive dashboard.
+This project analyzes customer attrition for a credit card company using SQL and Power BI. The objective was to identify the key drivers of customer churn through SQL-based exploratory data analysis and present actionable business insights in an interactive Power BI dashboard.
 
+The project follows a complete analytics workflow including data cleaning, validation, exploratory analysis, KPI development, dashboard design, and business recommendations.
 The project simulates an end-to-end analytics workflow, including data cleaning, validation, exploratory SQL analysis, KPI development, dashboard creation, and business recommendations.
 
 ---
@@ -15,7 +16,15 @@ The project simulates an end-to-end analytics workflow, including data cleaning,
 - **Tools Used:** MySQL, Power BI, DAX
 
 ---
+## Features
 
+- SQL-based data validation and exploratory analysis
+- Interactive Power BI dashboard
+- DAX-based KPI calculations
+- Executive-level business insights
+- Interactive filtering by card category and gender
+
+---
 ## Project Workflow
 
 ### 1. Database Creation
@@ -81,10 +90,9 @@ Built an executive dashboard featuring:
 # Business Recommendations
 
 - Launch proactive retention campaigns for inactive customers.
-- Improve customer support resolution quality.
+- Strengthen first-contact resolution to reduce repeated customer support interactions.
 - Cross-sell additional banking products to strengthen customer relationships.
-- Monitor declining transaction activity as an early warning indicator of churn.
-
+- Monitor declining transaction activity as an early indicator of potential customer churn.
 ---
 
 # Project Structure
@@ -111,18 +119,25 @@ Credit-Card-Customer-Attrition-Analytics
 
 # Skills Demonstrated
 
-- SQL (MySQL)
+- MySQL
+- Power BI
+- DAX
 - Data Cleaning
 - Data Validation
 - Exploratory Data Analysis (EDA)
-- Business Analytics
-- Power BI
-- DAX
+- Business Intelligence
 - Dashboard Design
 - Data Visualization
 
 ---
 
+## Tech Stack
+
+- MySQL
+- Power BI
+- DAX
+
+---
 ## Author
 
 **Saransh**
